@@ -20,7 +20,7 @@ public:
    	}
     
     void testIsPrime() {
-        CPPUNIT_ASSERT(isPrime(1) == false);
+        CPPUNIT_ASSERT(isPrime(2) == false);
         CPPUNIT_ASSERT(isPrime(2) == true);
         CPPUNIT_ASSERT(isPrime(4) == false);
         CPPUNIT_ASSERT(isPrime(31) == true);
