@@ -2,7 +2,7 @@
 
 #include <cppunit/extensions/HelperMacros.h>
 
-#include "../src/prime.h"
+#include "prime.h"
 
 class PrimeTest: public CppUnit::TestCase
 // Testsuite "PrimeTest"
