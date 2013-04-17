@@ -4,7 +4,7 @@
 
 #include "Prime.h"
 
-bool isPrime(int cand)
+ool isPrime(int cand)
 {
   int b = 2;
   bool p = true;
