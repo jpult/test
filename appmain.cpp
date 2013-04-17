@@ -1,4 +1,4 @@
-// Filename: "src/appmain.cpp", 22.3.2012 
+// Filename: "src/appmain.cpp", 22.3.2012 JP
 
 #include <iostream>
 
